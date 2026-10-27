@@ -74,8 +74,3 @@ d-----         10-Oct-26   2:15 PM                tests
 An experimental cross-platform version with broader regex patterns (`zsh`, `bash`, `venv` prefixes, and macOS/Linux shortcuts) is available in the [`/experimental`](./experimental) folder. 
 
 > **Note:** The experimental version has **not** been tested on macOS or Linux environments. Feel free to test it on your setup and open a PR if you improve it!
-
----
-
-## License
-MIT
